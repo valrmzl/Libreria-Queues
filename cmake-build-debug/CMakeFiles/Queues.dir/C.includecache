@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/Queues/main.c
+stdio.h
+-
+queues.h
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/Queues/queues.h
+
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/Queues/queues.h
+

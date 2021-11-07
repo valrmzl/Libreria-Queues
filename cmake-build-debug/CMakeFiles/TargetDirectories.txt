@@ -1,0 +1,3 @@
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/Queues/cmake-build-debug/CMakeFiles/Queues.dir
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/Queues/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luax2/Documents/3 sem/Memoria/Parcial 1/Queues/cmake-build-debug/CMakeFiles/rebuild_cache.dir
